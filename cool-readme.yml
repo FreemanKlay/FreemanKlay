@@ -1,0 +1,10 @@
+# Native look: GitHub colours, light/dark follow the viewer's theme (no fixed background)
+user: FreemanKlay
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  animations: true
+show: [summary, languages, weekly]

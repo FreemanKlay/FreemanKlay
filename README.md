@@ -1,7 +1,5 @@
 <!-- If you are reading the source: hello. -->
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/banner-dark-static.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/banner-light-static.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/banner-dark.svg">
   <img src="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/banner-light.svg" width="100%" alt="Freeman Klay, Independent Developer. Creating possibilities.">
 </picture>

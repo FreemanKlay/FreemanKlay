@@ -1,0 +1,13 @@
+{
+  "signal": "#4ade80",
+  "languages": {
+    "C++": "#4ade80",
+    "TypeScript": "#8fa3d9",
+    "JavaScript": "#e0b469",
+    "Python": "#e58f9c",
+    "Java": "#5fd0b0",
+    "SQL": "#d5ded2"
+  },
+  "other": "#9a8d94",
+  "order": ["C++", "TypeScript", "JavaScript", "Python", "Java", "SQL"]
+}

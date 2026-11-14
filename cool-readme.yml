@@ -1,0 +1,10 @@
+# Stats cards. Languages and the banner are drawn by our own scripts (scripts/).
+user: FreemanKlay
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: green
+  animations: true
+show: [summary, weekly]

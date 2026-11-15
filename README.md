@@ -98,8 +98,6 @@ Performance optimization · Software architecture · Creative technology
 </p>
 
 <!--
-CONTACT: decida os canais e descomente.
-**Contact** &nbsp; [Email](mailto:voce@exemplo.com) · [LinkedIn](https://linkedin.com/in/...) · [Site](https://...)
 -->
 
 <br>

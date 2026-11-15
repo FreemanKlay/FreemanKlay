@@ -1,4 +1,4 @@
-<!-- If you are reading the source: hello :). -->
+<!-- If you are reading the source: hello. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/banner-dark.svg">
   <img src="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/banner-light.svg" width="100%" alt="Freeman Klay, Independent Developer. Creating possibilities.">
@@ -116,5 +116,9 @@ CONTACT: decida os canais e descomente.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/weekly-dark.svg">
   <img src="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/weekly-light.svg" alt="Weekly rhythm" width="400">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/corner-dark.svg">
+  <img src="https://raw.githubusercontent.com/FreemanKlay/FreemanKlay/cards/corner-light.svg" alt="" width="400">
 </picture>
 </p>
